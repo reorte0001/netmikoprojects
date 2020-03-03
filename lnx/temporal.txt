@@ -1,0 +1,2 @@
+    inet 172.18.46.170/28 brd 172.18.46.175 scope global dynamic noprefixroute eth0
+    inet6 fe80::be4e:3dec:1cf3:8650/64 scope link noprefixroute 
